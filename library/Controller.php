@@ -1,10 +1,8 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
- * User: nileshsadarangani
+ * Base Controller
+ * Created by: Nilesh Sadarangani
  * Date: 04/07/14
- * Time: 12:23 AM
- * To change this template use File | Settings | File Templates.
  */
 
 class Controller {

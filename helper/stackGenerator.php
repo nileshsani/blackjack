@@ -1,7 +1,7 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
- * User: Nilesh Sadarangani
+ * Stack Generator Helper
+ * Created by: Nilesh Sadarangani
  * Date: 04/07/14
  */
 
@@ -28,7 +28,7 @@ class stackGenerator {
                     $stack['Q'] = $count;
                     $stack['K'] = $count;
                     break;
-                case ($count == 11):
+                case (count == 11):
                     $stack['A'] = $count;
             }
         }

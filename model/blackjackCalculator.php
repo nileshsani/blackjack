@@ -1,10 +1,8 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
- * User: nileshsadarangani
+ * Blackjack Calculator Model
+ * Created by: Nilesh Sadarangani
  * Date: 04/07/14
- * Time: 1:29 AM
- * To change this template use File | Settings | File Templates.
  */
 
 class blackjackCalculator {

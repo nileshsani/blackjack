@@ -7,7 +7,7 @@
     <file path="/index.php" changelist="2ab868ad-402e-4021-969d-1f893bbb70fc" time="1404409296740" ignored="false" />
     <file path="/indexController.php" changelist="2ab868ad-402e-4021-969d-1f893bbb70fc" time="1404408916403" ignored="false" />
     <file path="/Controller.php" changelist="2ab868ad-402e-4021-969d-1f893bbb70fc" time="1404406056452" ignored="false" />
-    <file path="/stackGenerator.php" changelist="2ab868ad-402e-4021-969d-1f893bbb70fc" time="1404408149896" ignored="false" />
+    <file path="/stackGenerator.php" changelist="2ab868ad-402e-4021-969d-1f893bbb70fc" time="1404666481223" ignored="false" />
     <file path="/blackjackCalculator.php" changelist="2ab868ad-402e-4021-969d-1f893bbb70fc" time="1404408837013" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="113" selection-end="175" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="6" selection-end="65" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="indexController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controller/indexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="26" selection-start="715" selection-end="728" vertical-scroll-proportion="0.0">
+            <state line="4" column="17" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -49,18 +49,18 @@
       <file leaf-file-name="blackjackCalculator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/blackjackCalculator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="3" selection-start="9" selection-end="9" vertical-scroll-proportion="-0.625">
+            <state line="1" column="0" selection-start="6" selection-end="95" vertical-scroll-proportion="-0.625">
               <folding>
-                <element signature="e#6#174#0" expanded="true" />
+                <element signature="e#6#95#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stackGenerator.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="stackGenerator.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helper/stackGenerator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+            <state line="2" column="25" selection-start="35" selection-end="35" vertical-scroll-proportion="0.056285176">
               <folding />
             </state>
           </provider>
@@ -69,21 +69,17 @@
       <file leaf-file-name="Controller.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/Controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+            <state line="2" column="18" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.36585367">
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#br#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="13" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,12 +94,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/library/Controller.php" />
-        <option value="$PROJECT_DIR$/helper/stackGenerator.php" />
-        <option value="$PROJECT_DIR$/model/blackjackCalculator.php" />
-        <option value="$PROJECT_DIR$/controller/indexController.php" />
         <option value="$PROJECT_DIR$/views/index/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/controller/indexController.php" />
+        <option value="$PROJECT_DIR$/library/Controller.php" />
+        <option value="$PROJECT_DIR$/model/blackjackCalculator.php" />
+        <option value="$PROJECT_DIR$/helper/stackGenerator.php" />
       </list>
     </option>
   </component>
@@ -139,7 +135,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -248,18 +243,24 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitter-integration" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <list size="0" />
@@ -281,7 +282,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25364667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2617504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -357,6 +358,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/helper/stackGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="8" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="113" selection-end="175" vertical-scroll-proportion="0.0">
@@ -389,7 +411,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="34" selection-start="224" selection-end="238" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#6#174#0" expanded="true" />
+            <element signature="e#6#95#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -397,11 +419,7 @@
     <entry file="file://$PROJECT_DIR$/views/index/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="25" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#br#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -410,51 +428,47 @@
         <state line="48" column="8" selection-start="1767" selection-end="1767" vertical-scroll-proportion="-7.5416665" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/Controller.php">
+    <entry file="file://$PROJECT_DIR$/views/index/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helper/stackGenerator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+        <state line="13" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="113" selection-end="175" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="6" selection-end="65" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controller/indexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="26" selection-start="715" selection-end="728" vertical-scroll-proportion="0.0">
+        <state line="4" column="17" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/blackjackCalculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="3" selection-start="9" selection-end="9" vertical-scroll-proportion="-0.625">
+        <state line="1" column="0" selection-start="6" selection-end="95" vertical-scroll-proportion="-0.625">
           <folding>
-            <element signature="e#6#174#0" expanded="true" />
+            <element signature="e#6#95#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index/index.php">
+    <entry file="file://$PROJECT_DIR$/helper/stackGenerator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.36585367">
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#br#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="2" column="25" selection-start="35" selection-end="35" vertical-scroll-proportion="0.056285176">
+          <folding />
         </state>
       </provider>
     </entry>
